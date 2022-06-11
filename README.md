@@ -1,2 +1,2 @@
-# Minesweeper
+# <p align="center"> Minesweeper</p>
 
